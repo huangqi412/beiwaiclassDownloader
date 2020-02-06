@@ -3,8 +3,8 @@
 
 使用方法：
 
-> 1. nodejs
-> 2. npm安装包：request, fs, child_process
+> 1. 安装nodejs
+> 2. npm需要安装以下包：request, fs, child_process
 > 3. node down.js courseCode
 
 courseCode获取方法：
